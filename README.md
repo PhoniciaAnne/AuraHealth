@@ -39,5 +39,5 @@ This Health Insights Platform is an innovative web application focused on empowe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/health-insights-platform.git
+   git clone https://github.com/phoniciaanne/health-insights-platform.git
    cd health-insights-platform
