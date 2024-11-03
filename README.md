@@ -39,5 +39,5 @@ This Health Insights Platform is an innovative web application focused on empowe
 
 1. **Clone the Repository**:
    ```bash
-   git clone (https://github.com/PhoniciaAnne/AuraHealth
+   git clone [(https://github.com/PhoniciaAnne/AuraHealth](https://github.com/PhoniciaAnne/AuraHealth)
    cd AuraHealth
