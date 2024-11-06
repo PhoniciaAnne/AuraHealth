@@ -1,4 +1,4 @@
-#AuraHealth
+# AuraHealth
 This Health Insights Platform is an innovative web application focused on empowering underserved communities to take charge of their health. By providing accessible health metrics, educational resources, and personalized insights, our platform helps users make informed decisions about their well-being, regardless of socioeconomic barriers.
 
 ## Table of Contents
